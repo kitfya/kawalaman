@@ -55,7 +55,7 @@
 - **Host**: `127.0.0.1` (Port: `3306`)
 - **Database**: `db_kawalaman`
 - **User**: `root`
-- **Password**: `KitfyaDev@142808`
+- **Password**: ``
 
 ### Akun Bawaan Satgas (Login di `/satgas/login.php`)
 | Peran | Username | Kata Sandi |
